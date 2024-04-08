@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "223249616491",
+    "firebase_url": "https://water-4c292-default-rtdb.firebaseio.com",
+    "project_id": "water-4c292",
+    "storage_bucket": "water-4c292.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223249616491:android:f78795603080a99586eb2e",
+        "android_client_info": {
+          "package_name": "com.example.water_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_eTtVQ4AbLsYgj__GkGiErmlpIPlsQFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCd5nXKw-LsQlHBwnwclJsCRhfIUI1h9lw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>223249616491</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.waterTest.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>water-4c292</string>
+	<key>STORAGE_BUCKET</key>
+	<string>water-4c292.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:223249616491:ios:6757c55dfdf5d9d586eb2e</string>
+	<key>DATABASE_URL</key>
+	<string>https://water-4c292-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
