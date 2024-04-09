@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:wat_monitor/screens/Homepage.dart';
+import 'package:wat_monitor/screens/admin2.dart';
 
 class Admin extends StatefulWidget {
   const Admin({Key? key}) : super(key: key);
@@ -137,12 +138,30 @@ class _AdminState extends State<Admin> {
                       ),
                     ),
                   ),
-                )
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    borderRadius: BorderRadius.circular(30),
+                    color: Colors.white70
+                  ),
+
+                ),
               ],
             )
           ],
         ),
       ),
+      floatingActionButton: FloatingActionButton(
+        child:Icon(Icons.delete),
+          onPressed: () {
+            Navigator.push(
+              context,
+              MaterialPageRoute(
+                builder: (context) => AdminPage(),
+              ),
+            );
+          },
+        ),
     );
   }
 }
